@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "ec9c04224a95836ca0344a6000ec8d8bc8a6d4f2",
+  "evaluation_time": 118.96822214126587,
+  "kg_co2_emissions": 0.007823346009164503,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.09286666666666667,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.09286666666666667
+      }
+    ]
+  },
+  "task_name": "CLEVRZeroShot"
+}

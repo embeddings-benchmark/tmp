@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "1699f138f0558342a1cbf99f7cf36b4361bb5ebc",
+  "evaluation_time": 192.8560917377472,
+  "kg_co2_emissions": 0.009268098922783104,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.005308056872037914,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.005308056872037914
+      }
+    ]
+  },
+  "task_name": "Country211ZeroShot"
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_revision": "853ec8757226585a38a80886c51fe0f3f268787c",
+  "evaluation_time": 230.10213327407837,
+  "kg_co2_emissions": 0.00928643577720818,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.0,
+        "hf_subset": "default",
+        "image_acc": 0.0,
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.19200320541858673,
+        "text_acc": 0.19200320541858673
+      }
+    ]
+  },
+  "task_name": "AROCocoOrder"
+}

@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "aadb3af77e9048adbea6b47c21a81e47dd092ae5",
+  "evaluation_time": 129.460786819458,
+  "kg_co2_emissions": 0.008050808470738451,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.0214,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.0214
+      }
+    ]
+  },
+  "task_name": "CIFAR100ZeroShot"
+}

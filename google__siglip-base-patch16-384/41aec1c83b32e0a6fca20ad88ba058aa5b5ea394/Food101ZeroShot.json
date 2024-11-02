@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "e06acf2a88084f04bce4d4a525165d68e0a36c38",
+  "evaluation_time": 232.36054754257202,
+  "kg_co2_emissions": 0.01106403658050028,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "validation": [
+      {
+        "accuracy": 0.009227722772277227,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.009227722772277227
+      }
+    ]
+  },
+  "task_name": "Food101ZeroShot"
+}

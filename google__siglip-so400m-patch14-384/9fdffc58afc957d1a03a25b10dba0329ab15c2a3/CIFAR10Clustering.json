@@ -1,0 +1,22 @@
+{
+  "dataset_revision": "0b2714987fa478483af9968de7c934580d0bb9a2",
+  "evaluation_time": 224.02381992340088,
+  "kg_co2_emissions": 0.017108300653877903,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "ari": 0.7686391706774313,
+        "cluster_accuracy": 0.814,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.8638986981204824,
+        "nmi": 0.8638986981204824,
+        "v_measure": 0.8638986981204824
+      }
+    ]
+  },
+  "task_name": "CIFAR10Clustering"
+}
