@@ -1,0 +1,28 @@
+{
+  "dataset_revision": "dbafdb9e1506c9c419c5c4672e409463cd21ba50",
+  "evaluation_time": 49.15205526351929,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.470718901453958,
+        "f1": 0.6790905591412915,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "lrap": 0.6366125919942691,
+        "main_score": 0.470718901453958,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.470718901453958,
+            "f1": 0.6790905591412915,
+            "lrap": 0.6366125919942691
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "VOC2007"
+}
