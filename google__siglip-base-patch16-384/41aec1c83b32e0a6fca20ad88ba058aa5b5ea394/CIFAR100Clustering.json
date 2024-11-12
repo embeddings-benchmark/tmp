@@ -1,20 +1,20 @@
 {
   "dataset_revision": "aadb3af77e9048adbea6b47c21a81e47dd092ae5",
-  "evaluation_time": 70.47649788856506,
-  "kg_co2_emissions": 0.0036935921150355296,
+  "evaluation_time": 73.63178610801697,
+  "kg_co2_emissions": 0.0039931527133053755,
   "mteb_version": "1.14.15",
   "scores": {
     "test": [
       {
-        "ari": 0.32605517363761877,
-        "cluster_accuracy": 0.4698,
+        "ari": 0.35203381679888746,
+        "cluster_accuracy": 0.4964,
         "hf_subset": "default",
         "languages": [
           "eng-Latn"
         ],
-        "main_score": 0.6666822956033415,
-        "nmi": 0.6666822956033415,
-        "v_measure": 0.6666822956033417
+        "main_score": 0.6777896354867872,
+        "nmi": 0.6777896354867872,
+        "v_measure": 0.6777896354867873
       }
     ]
   },

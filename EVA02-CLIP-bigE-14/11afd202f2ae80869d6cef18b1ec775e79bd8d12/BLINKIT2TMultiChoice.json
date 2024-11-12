@@ -1,0 +1,33 @@
+{
+  "dataset_revision": "ae713b03ae68e343f16c3bcdbd1b1ee760975d55",
+  "evaluation_time": 16.570331811904907,
+  "kg_co2_emissions": 0.0008434005802664648,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.3727,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.3727,
+        "mrr_at_1": 0.37269772481040087,
+        "mrr_at_10": 0.6441856265799922,
+        "mrr_at_100": 0.6441856265799922,
+        "mrr_at_1000": 0.6441856265799922,
+        "mrr_at_20": 0.6441856265799922,
+        "mrr_at_3": 0.6233297219212706,
+        "mrr_at_5": 0.6441856265799922,
+        "ndcg_at_1": 0.3727,
+        "ndcg_at_10": 0.73504,
+        "ndcg_at_100": 0.73504,
+        "ndcg_at_1000": 0.73504,
+        "ndcg_at_20": 0.73504,
+        "ndcg_at_3": 0.69911,
+        "ndcg_at_5": 0.73504
+      }
+    ]
+  },
+  "task_name": "BLINKIT2TMultiChoice"
+}

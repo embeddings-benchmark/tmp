@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "dbafdb9e1506c9c419c5c4672e409463cd21ba50",
+  "evaluation_time": 82.21138834953308,
+  "kg_co2_emissions": 0.0024144945397198904,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.0,
+        "f1": 0.0,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "lrap": 0.07080977382876093,
+        "main_score": 0.0,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.0,
+            "f1": 0.0,
+            "lrap": 0.07080977382876093
+          },
+          {
+            "accuracy": 0.0,
+            "f1": 0.0,
+            "lrap": 0.07080977382876093
+          },
+          {
+            "accuracy": 0.0,
+            "f1": 0.0,
+            "lrap": 0.07080977382876093
+          },
+          {
+            "accuracy": 0.0,
+            "f1": 0.0,
+            "lrap": 0.07080977382876093
+          },
+          {
+            "accuracy": 0.0,
+            "f1": 0.0,
+            "lrap": 0.07080977382876093
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "VOC2007"
+}
