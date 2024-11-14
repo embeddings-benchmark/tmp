@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "49ae7f94508f7feae62baf836db284306eab0b0f",
+  "evaluation_time": 82.00830173492432,
+  "kg_co2_emissions": 0.0036196799163338085,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.970025,
+        "f1": 0.9700132859525719,
+        "f1_weighted": 0.970013285952572,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.970025,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.970625,
+            "f1": 0.9705972953969526,
+            "f1_weighted": 0.9705972953969527
+          },
+          {
+            "accuracy": 0.97025,
+            "f1": 0.9702788270013674,
+            "f1_weighted": 0.9702788270013674
+          },
+          {
+            "accuracy": 0.9705,
+            "f1": 0.9704859942953574,
+            "f1_weighted": 0.9704859942953574
+          },
+          {
+            "accuracy": 0.96975,
+            "f1": 0.9696788741072911,
+            "f1_weighted": 0.9696788741072913
+          },
+          {
+            "accuracy": 0.969,
+            "f1": 0.9690254389618909,
+            "f1_weighted": 0.969025438961891
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "STL10"
+}

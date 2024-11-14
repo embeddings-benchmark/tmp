@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "0b2714987fa478483af9968de7c934580d0bb9a2",
+  "evaluation_time": 61.07559609413147,
+  "kg_co2_emissions": 0.002683050752498701,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.94314,
+        "f1": 0.9434058339083723,
+        "f1_weighted": 0.9434058339083723,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.94314,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.943,
+            "f1": 0.9431799531900186,
+            "f1_weighted": 0.9431799531900186
+          },
+          {
+            "accuracy": 0.9388,
+            "f1": 0.9391394096255269,
+            "f1_weighted": 0.939139409625527
+          },
+          {
+            "accuracy": 0.9401,
+            "f1": 0.9405836312566187,
+            "f1_weighted": 0.9405836312566187
+          },
+          {
+            "accuracy": 0.9475,
+            "f1": 0.9476412302425979,
+            "f1_weighted": 0.9476412302425978
+          },
+          {
+            "accuracy": 0.9463,
+            "f1": 0.9464849452270994,
+            "f1_weighted": 0.9464849452270995
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "CIFAR10"
+}

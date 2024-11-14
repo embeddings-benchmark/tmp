@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "b24c7a5a3ef12df09089055d1795e2ce7c7e7397",
+  "evaluation_time": 23062.167037010193,
+  "kg_co2_emissions": 1.826805544667959,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.665156,
+        "f1": 0.6636943092944685,
+        "f1_weighted": 0.6636943092944685,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.665156,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.66462,
+            "f1": 0.6637995299700525,
+            "f1_weighted": 0.6637995299700524
+          },
+          {
+            "accuracy": 0.66282,
+            "f1": 0.661125276817081,
+            "f1_weighted": 0.661125276817081
+          },
+          {
+            "accuracy": 0.66368,
+            "f1": 0.6614625708216297,
+            "f1_weighted": 0.6614625708216296
+          },
+          {
+            "accuracy": 0.66742,
+            "f1": 0.6663938784351066,
+            "f1_weighted": 0.6663938784351066
+          },
+          {
+            "accuracy": 0.66724,
+            "f1": 0.6656902904284729,
+            "f1_weighted": 0.665690290428473
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "Imagenet1k"
+}

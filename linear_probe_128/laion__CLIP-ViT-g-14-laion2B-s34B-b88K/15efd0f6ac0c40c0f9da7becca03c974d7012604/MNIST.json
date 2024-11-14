@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "77f3279092a1c1579b2250db8eafed0ad422088c",
+  "evaluation_time": 93.33911609649658,
+  "kg_co2_emissions": 0.00625844738504646,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.98364,
+        "f1": 0.9835546533709486,
+        "f1_weighted": 0.9836393696302401,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.98364,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.9838,
+            "f1": 0.9837689757519534,
+            "f1_weighted": 0.9837991876826505
+          },
+          {
+            "accuracy": 0.9842,
+            "f1": 0.9840882937382552,
+            "f1_weighted": 0.9841939241244257
+          },
+          {
+            "accuracy": 0.9843,
+            "f1": 0.9842323294103735,
+            "f1_weighted": 0.9843058806630657
+          },
+          {
+            "accuracy": 0.9829,
+            "f1": 0.9827777304173614,
+            "f1_weighted": 0.9828969982033956
+          },
+          {
+            "accuracy": 0.983,
+            "f1": 0.9829059375367992,
+            "f1_weighted": 0.983000857477663
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "MNIST"
+}
