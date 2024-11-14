@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "e06acf2a88084f04bce4d4a525165d68e0a36c38",
+  "evaluation_time": 2017.1270360946655,
+  "kg_co2_emissions": 0.0692770129079737,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "validation": [
+      {
+        "accuracy": 0.9397861386138613,
+        "f1": 0.939767314252798,
+        "f1_weighted": 0.939767314252798,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.9397861386138613,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.9396831683168316,
+            "f1": 0.939594191058151,
+            "f1_weighted": 0.9395941910581509
+          },
+          {
+            "accuracy": 0.9398415841584158,
+            "f1": 0.9398894968633378,
+            "f1_weighted": 0.9398894968633379
+          },
+          {
+            "accuracy": 0.9398811881188118,
+            "f1": 0.9398818877883799,
+            "f1_weighted": 0.9398818877883797
+          },
+          {
+            "accuracy": 0.9393267326732673,
+            "f1": 0.9392894732117498,
+            "f1_weighted": 0.9392894732117498
+          },
+          {
+            "accuracy": 0.9401980198019801,
+            "f1": 0.9401815223423715,
+            "f1_weighted": 0.9401815223423714
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "Food101Classification"
+}

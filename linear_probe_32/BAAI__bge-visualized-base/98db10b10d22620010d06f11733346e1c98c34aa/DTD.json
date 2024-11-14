@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "d2afa97d9f335b1a6b3b09c637aef667f98f966e",
+  "evaluation_time": 75.95146131515503,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.7232978723404255,
+        "f1": 0.7130975694096013,
+        "f1_weighted": 0.7130975694096012,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.7232978723404255,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.7202127659574468,
+            "f1": 0.7073158654842678,
+            "f1_weighted": 0.7073158654842678
+          },
+          {
+            "accuracy": 0.7170212765957447,
+            "f1": 0.7082036352477395,
+            "f1_weighted": 0.7082036352477393
+          },
+          {
+            "accuracy": 0.7271276595744681,
+            "f1": 0.7187086068456484,
+            "f1_weighted": 0.7187086068456484
+          },
+          {
+            "accuracy": 0.7271276595744681,
+            "f1": 0.717185081468145,
+            "f1_weighted": 0.7171850814681447
+          },
+          {
+            "accuracy": 0.725,
+            "f1": 0.7140746580022057,
+            "f1_weighted": 0.7140746580022058
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "DTD"
+}

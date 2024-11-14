@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "a37b1891609c0376fa81eced756e7863e1bd873b",
+  "evaluation_time": 1238.8454377651215,
+  "kg_co2_emissions": 0.027555382106789966,
+  "mteb_version": "1.14.15",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.9154901960784313,
+        "f1": 0.9143659882933302,
+        "f1_weighted": 0.9131250029320352,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.9154901960784313,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.9107843137254902,
+            "f1": 0.9100394542718547,
+            "f1_weighted": 0.9086493995879851
+          },
+          {
+            "accuracy": 0.9166666666666666,
+            "f1": 0.9156419018666266,
+            "f1_weighted": 0.9143466058201865
+          },
+          {
+            "accuracy": 0.9156862745098039,
+            "f1": 0.9146749648063391,
+            "f1_weighted": 0.9133347025150741
+          },
+          {
+            "accuracy": 0.9176470588235294,
+            "f1": 0.9158096110609644,
+            "f1_weighted": 0.9148164497249397
+          },
+          {
+            "accuracy": 0.9166666666666666,
+            "f1": 0.9156640094608661,
+            "f1_weighted": 0.9144778570119912
+          }
+        ]
+      }
+    ]
+  },
+  "task_name": "OxfordFlowersClassification"
+}
