@@ -1,7 +1,7 @@
 {
-  "dataset_revision": "fd121b6592fe946616fa85116703b94a4c61fd63",
-  "evaluation_time": 36.926032304763794,
-  "kg_co2_emissions": 0.002670065487956947,
+  "dataset_revision": "d3e0adf4e942446c04427511ccce281c86861248",
+  "evaluation_time": 38.222275733947754,
+  "kg_co2_emissions": 0.002613323408463226,
   "mteb_version": "1.14.15",
   "scores": {
     "test": [
