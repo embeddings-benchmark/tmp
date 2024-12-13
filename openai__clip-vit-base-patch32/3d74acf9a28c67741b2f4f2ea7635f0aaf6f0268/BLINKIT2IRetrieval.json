@@ -1,6 +1,6 @@
 {
-  "dataset_revision": "359b66f11c25d19bc8f7108d98e660a5857f3d26",
-  "evaluation_time": 107.76927280426025,
+  "dataset_revision": "7a1a1330565faca9c1aeec6f5acfc64f21296753",
+  "evaluation_time": 20.558679819107056,
   "kg_co2_emissions": null,
   "mteb_version": "1.14.15",
   "scores": {
@@ -99,10 +99,10 @@
         "nauc_ndcg_at_1000_max": 0.4037813109704015,
         "nauc_ndcg_at_1000_std": -0.5574255425976243,
         "nauc_ndcg_at_100_diff1": 0.3940635502011101,
-        "nauc_ndcg_at_100_max": 0.3965707295596685,
+        "nauc_ndcg_at_100_max": 0.39657072955966893,
         "nauc_ndcg_at_100_std": -0.5425258953768033,
         "nauc_ndcg_at_10_diff1": 0.40949018861283626,
-        "nauc_ndcg_at_10_max": 0.4171118686841093,
+        "nauc_ndcg_at_10_max": 0.4171118686841097,
         "nauc_ndcg_at_10_std": -0.5887779521637807,
         "nauc_ndcg_at_1_diff1": 0.43070449260728005,
         "nauc_ndcg_at_1_max": 0.3541529856512681,
